@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+}
+.align{
+    align-items: center;
+}
+.justify{
+    justify-content: center;
+}
+.Colour{
+    background-color: black;
+    color: white;
+}
+.svgicon{
+    filter: invert(1);
+}
+.svggreay{
+    filter: invert(50%);
+}
